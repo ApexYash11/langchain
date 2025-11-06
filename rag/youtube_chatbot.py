@@ -8,7 +8,7 @@ Original file is located at
 """
 
 import os
-os.environ["GEMini_api_key"]="AIzaSyDwOLIm6hzf3arZ5byKIW6Jm5iPCopuygA"
+os.environ["GEMini_api_key"]="AIz"
 
 !pip install -q youtube-transcript-api langchain-community langchain-openai langchain-google-genai \
                faiss-cpu tiktoken python-dotenv
