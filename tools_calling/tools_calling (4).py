@@ -8,7 +8,7 @@ Original file is located at
 """
 
 import os
-os.environ["GOOGLE_API_KEY"] = "AIzaSyDwOLIm6hzf3arZ5byKIW6Jm5iPCopuygA"
+os.environ["GOOGLE_API_KEY"] = "AIzaSyDwOA"
 
 !pip install -q langchain-openai langchain-core requests
 
