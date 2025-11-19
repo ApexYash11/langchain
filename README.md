@@ -77,4 +77,4 @@ python textsplitter/split_by_string_demo.py
 
 ---
 Updated: merged README combining both versions, fixed typos, renamed splitter examples to avoid builtin shadowing, and converted paths to portable format.
-# langchain
+# langchain Learning series 
